@@ -19,31 +19,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Working the Issue/Resolution
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="image" src="https://github.com/dblock5/ticket-lifecycle/assets/102873312/38bda9c7-fd80-4c71-820b-f8a508d9dec3">
+
+<img width="1440" alt="image" src="https://github.com/dblock5/ticket-lifecycle/assets/102873312/86e3bf33-4c34-43ae-a038-90007e9505d2">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, I created a few tickets as different end users. Then logged back into osTicket as a help desk professional. The tickets appeared correctly on osTicket and then I assigned different settings for them. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="1440" alt="image" src="https://github.com/dblock5/ticket-lifecycle/assets/102873312/4f5c77f2-43fd-4d3d-930b-4c1ab2c5cc2b">
+
+<img width="697" alt="image" src="https://github.com/dblock5/ticket-lifecycle/assets/102873312/ec421170-daea-4b9f-8ce2-1da156faff99">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made sure the settings of each ticket make sense and assigned the tickets to different help desk professionals and updated the priority level of each ticket. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="751" alt="image" src="https://github.com/dblock5/ticket-lifecycle/assets/102873312/ed083f43-4814-463a-a555-d916efde7bc4">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged in as different help desk professionals and worked through and resolved   each ticket. 
 </p>
 <br />
